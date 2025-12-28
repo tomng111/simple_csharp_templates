@@ -1,4 +1,4 @@
-# Simple Industrial-Sensor Templates
+# Simple C# Templates
 M.Sc. Minh-Hoang Ngo, Hochschule Karlsruhe, DE.<br /><br />
 Here I upload some simple templates for the C# courses that I taught since 2018.<br />
 These templates are used to build the complete projects according to the Lab-Handbooks and Theoretical-Books.<br />
