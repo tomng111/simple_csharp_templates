@@ -51,7 +51,7 @@ void loop(void)
   // After we got the temperatures, we can print them here.
   // We use the function ByIndex, and as an example get the temperature from the first sensor only.
   float tempC = sensors.getTempCByIndex(0);
-  if(tempC > sollwert){
+  if(tempC >= sollwert){
     digitalWrite(led, HIGH);
     Serial.println("!"+String(tempC)+"@"+"EIN"+"#"+String(sollwert));
   }
