@@ -1,6 +1,9 @@
-# Simple C# Templates
-M.Sc. Minh-Hoang Ngo, Hochschule Karlsruhe, DE.<br /><br />
-Here I upload some simple templates for the C# courses that I taught since 2018.<br />
-These templates are used to build the complete projects according to the Lab-Handbooks and Theoretical-Books.<br />
-Hope you could find them interesting. Have a nice day!<br />
-## Branches<br />
+# Python Simple LED Example
+Arduino MEGA 2560 - DS18B20<br />
+## Essential Commands<br />
+### packages/ZedGraph.5.2.1
+- A class library, user control, and web control for .net, written in C#, for drawing 2D Line, Bar, and Pie Charts<br />
+### Operating
+- Select the COM-PORTS and BAUDRATE<br />
+- Click the CONNECT button<br />
+- Select the Setpoit Temperate (ISTWERT-TEMP)
