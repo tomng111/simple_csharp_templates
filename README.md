@@ -1,4 +1,4 @@
-# Python Simple LED Example
+# Temperature Control Using DS18B20 and C#
 Arduino MEGA 2560 - DS18B20<br />
 ## Essential Commands<br />
 ### packages/ZedGraph.5.2.1
